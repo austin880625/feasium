@@ -1,7 +1,9 @@
+-e git+ssh://git@github.com/austin880625/feasium.git@02cde428506d311fb93ec4ce2220dac84787a052#egg=feasium
 Jinja2==2.11.2
-markdown==3.3.6
+Markdown==3.3.6
 markdown-del-ins==1.0.0
 markdown-katex==202006.1021
 MarkupSafe==1.1.1
 pathlib2==2.3.5
+PyYAML==6.0
 six==1.15.0
