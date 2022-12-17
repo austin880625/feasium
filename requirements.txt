@@ -1,0 +1,7 @@
+Jinja2==2.11.2
+markdown==3.3.6
+markdown-del-ins==1.0.0
+markdown-katex==202006.1021
+MarkupSafe==1.1.1
+pathlib2==2.3.5
+six==1.15.0
